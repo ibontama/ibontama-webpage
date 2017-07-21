@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "http://example.org/"
+baseurl = "https://ibontu.netlify.com//"
 languageCode = "en-us"
 title = "Ibon Tamayo-Uria"
 theme = "hugo-orbit-theme"
